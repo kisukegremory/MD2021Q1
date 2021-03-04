@@ -1,1 +1,5 @@
-"# Reposit¢rio de Atividades de Mineraá∆o de Dados" 
+# Reposit√≥rio de Atividades de Minera√ß√£o de Dados
+
+---
+
+Site da disciplina : http://professor.ufabc.edu.br/~ronaldo.prati/MineracaoDados/grad2021/
